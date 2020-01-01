@@ -1,0 +1,16 @@
+1-TN-041
+2-DR-140897
+3-NS-2
+4-LS-HL
+5-H-M-29-HK
+6-L-M-24-HK
+INFO-END
+
+H:	§Úª¾§A¦nÁé·N¨®¡A¨®§Ú­ø°÷§A¼ôœT¡C
+L:	³Ø¡C
+H:	¦ý«Y§Ú³£ª¾¹D§AÁé·Nªk©Ô§Q¡C
+L:	«Y¡C
+H:	ÂI¸Ñ§AÁé·Nªk©Ô§Q©O¡H
+L:	¨ä¹ê©O¡A¦³´X­Ó­ì¦]‹e¡A¨ä¹ê©O¡A«Y¦³ø²Ó­Óï¸g¾ú¨Óï¡C¦]¬°©O¡A¦^·Q·í¦~©O¡A§Ú«Î¥ø¦íö¤EÀs«°õ«×ï¡Aäü©O¡A‹d¡Aªþªñ©O´N¦³¶¡¥s¡uÀyÂ@¡vïdealer¡A´N«Y¶Rø¤G¤âªk©Ô§Qï¡Cäü©O¡A·í§Ú²Ó²Ó­Óï¤@­Ó¤pµ£ï®É­Ô©O¡A¨C³{¸g¹Lõ«×©O¡A´N¦³¤@ºØ¾_¾Ùï·PÄ±¡C¨£¨ìøè°¨®°{°{¥O¡Aö¶§¥ú©³¤Uµo¥úï®É­Ô©O¡A·R¤W­ùø¬õ¦âïªF¦è¡A´Näü«á¨ÓÚ»ªðªk©Ô§Qõø¾ú¥v°Ú¡A´N·|Ä±±o­ù¶¡¨®¼t¦n¹LÅ}¤ñ¸û¤W¡C¦nè°œÅ¡A¦P®I¡A¦]¬°è°œÅ¡C
+H:	ªLÄ_°í¥§©O¡H
+L:	ªLÄ_°í¥§­Ó®æ¤ñ¸û²Ê±oº¢¡A¦P®IÉNÉA¾ú¥v‹n®Ú¥»¡A¤ñ¸û°_¤W¨Ó¡CäüÊ\¦P®I´Ú¤S¤Ö¡AÉN¾ú¥v¡AäüÉN­Ólegendö«×©O¡Aäü§Y«YÉNÉA¦n¬ã¨sœÅ®Ú¥»¡C

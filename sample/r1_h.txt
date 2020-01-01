@@ -1,0 +1,23 @@
+1-TN-R035
+2-DR-130398
+3-NS-3
+4-LS-ABC
+5-A-M-()-()
+6-B-M-()-()
+7-C-M-()-()
+INFO-END
+
+C:	¼Ö»P«ã¡C
+A:	«YœT¡Crock'n-rollshowï¡C§Y«Y¤S¦¬¨ì«Å¶Ç®ÄªG¡A¤S¦³ºËÀY¡C§ó¥[©O¡A«Y¬°°²¤é¹C¤H©O¡A´£¨Ñ§K¶O®T¼Ö¸`¥Ø¡C¦P®É©O¡A«Y®ø·À¤uÁp·|ï¦Ñ»æï§Î¶H¡CäüÁ¿¡Cäü©O¡A´N¤@Á|¤T±o¡Aäü¸Ü¡C
+C:	³Ş¡A­ù¼ËÏ­n¦n¤p¤ß´zºqØ{¡A§ÚÄ±±o¡C
+A:	§Ú­º¥ı§Ú·Qª¾¹D¡A¦]¬°Ê\­ù«×ÉN¡C
+C:	Ãä¶¤band¥ı¡H
+A:	«YœÅ¡CÉNÁ¿¨ì«YÃä¶¤band¡C
+C:	úï¡A§Y«YÄ´¦p´Nºâ§A¼½ºq³â¡C§Ú­øª¾°Ú¡A­º¥ıÊ\«Y«}·Q°w¹ï¤@¼ËÏ©O¡H´N«Y­ù°}®É¡AÄµ¹î©O¡A´Nö­ù­Ó²¾¥æ»ö¦¡ï®É­Ô©O¡A´NÅÍ÷ø¥j¨å­µ¼Ö¡C¦n¤jÁnï¡CäüÊ\«Y«}­Órock'n_roll«l¹L§A¥ı¡H§Y«Y¦³ø§ÜÄ³¦æ°Ê¡C
+A:	«YÂI©O¡H
+C:	¨ä¦¸§AM÷Ãä¶¤band¡HÃä¤@ºØÃş«¬ïrock'n-roll³£¬Û®t¦n»·‹nØ{¡C
+B:	¥Á¥DÄÒband¦P®IÉAÏbandäü¼ËœÅ¡C«}´N«Y§Y«YÄ³­û§¨‹n³â¡C
+C:	§Y«YÄ´¦p¡A³Ş¡A§AM÷Oasis¡Cäü©ÎªÌ§A­øMOasis¡C§AM÷õ­Ó¡C
+A:	ÂI·|«YOasis©O¡H
+C:	¤@©w«Y­ø·|õ°¦ì¡Cäü¨s³º§AMÃä°¦¡HÃä°¦«Y¡H
+A:	À³¸Ó³£«Y¥»¦aï¤@ø¿W¥ß¼Ö¹Î¨Óï¡C
