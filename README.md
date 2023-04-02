@@ -48,6 +48,7 @@ Linguistic Society of Hong Kong (LSHK).
     [UTF8 (zipped, transcriptions only,
     no sound)](data/hkcancor-utf8.zip)
 
+Unfortunately, only samples of the sound are available for download, the complete files were not released.
 
 ## Citation
 If you use them, please cite:
