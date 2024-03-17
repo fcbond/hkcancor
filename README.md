@@ -59,7 +59,7 @@ Design and Uses](data/LukeWong_Hong-Kong-Cantonese-Corpus.pdf) *Journal of Chine
 ### Links
 
 -   [PyCantonese: Working with Cantonese corpus data using
-    Python](https://github.com/pycantonese/pycantonese) by Jackson L.
+    Python](https://github.com/jacksonllee/pycantonese) by Jackson L.
     Lee
 
 
