@@ -53,8 +53,8 @@ Unfortunately, only samples of the sound are available for download, the complet
 ## Citation
 If you use them, please cite:
 
-K. K. Luke and May L.Y. Wong (2015)[The Hong Kong Cantonese Corpus:
-Design and Uses](data/LukeWong_Hong-Kong-Cantonese-Corpus.pdf) *Journal of Chinese Linguistics* (to appear).
+K. K. Luke and May L.Y. Wong (2015) The Hong Kong Cantonese Corpus:
+Design and Uses  *Journal of Chinese Linguistics Monograph Series*, 25, 312–333. ([preprint](data/LukeWong_Hong-Kong-Cantonese-Corpus.pdf), [JSTOR](https://www.jstor.org/stable/26455290))
 
 ### Links
 
